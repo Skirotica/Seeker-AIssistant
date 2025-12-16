@@ -1,0 +1,41 @@
+{
+  "search": {
+    "keywords": ["product", "director", "vp", "platform", "ai"],
+    "titles": [
+      "Director of Product",
+      "VP Product",
+      "Staff Product Manager",
+      "Senior Product Manager",
+      "Product Manager",
+      "Product Builder"
+    ],
+    "locations": ["Salt Lake City", "Remote", "Utah", "United States"]
+  },
+  "sources": {
+    "greenhouse_boards": [
+      "stripe",
+      "snowflakeinc",
+      "airbnb",
+      "coinbase",
+      "square",
+      "notion",
+      "figma",
+      "databricks"
+    ],
+    "lever_companies": [
+      "shieldai",
+      "netflix",
+      "agiloft",
+      "highlevel",
+      "kraken",
+      "ladders",
+      "filevine"
+    ],
+    "rss_feeds": [
+      "http://www.w3.org/2005/Atom",
+      "http://www.jobdig.com/rss.php",
+      "http://www.careerone.com.au/",
+      "http://www.jobster.com/find/US/jobs/for/rss"
+    ]
+  }
+}
