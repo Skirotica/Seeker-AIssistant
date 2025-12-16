@@ -1,0 +1,12 @@
+{
+  "search": {
+    "keywords": ["product", "director", "vp", "platform", "ai"],
+    "titles": ["Director of Product", "VP Product", "Staff Product Manager", "Senior Product Manager"],
+    "locations": ["Salt Lake City", "Remote", "Utah", "United States"]
+  },
+  "sources": {
+    "greenhouse_boards": ["exampleboard"],
+    "lever_companies": ["exampleco"],
+    "rss_feeds": ["https://example.com/careers.rss"]
+  }
+}
